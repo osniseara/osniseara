@@ -11,7 +11,7 @@ src="https://raw.githubusercontent.com/gist/osniseara/acb6a500acef575b8c0a2b5123
 
 - 🔭 Atualmente trabalho como Analista de Inteligência de Mercado
  
-- 💬 O que estou estudando **JavaScript, HTML, CSS, SQL, Node.JS, React.JS, Java
+- 💬 O que estou estudando atualmente: JavaScript, HTML, CSS, SQL, Node.JS, React.JS, Java
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
