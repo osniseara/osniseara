@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/gist/osniseara/acb6a500acef575b8c0a2b5123
   
 - 🔥 Desenvolvedor FullStack Jr
 
-- 🔭 Atualmente trabalho com Analista de Inteligência de Mercado
+- 🔭 Atualmente trabalho como Analista de Inteligência de Mercado
  
 - 💬 O que estou estudando **JavaScript, HTML, CSS, SQL, Node.JS, React.JS, Java
 
